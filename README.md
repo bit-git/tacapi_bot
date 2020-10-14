@@ -101,7 +101,7 @@ After you sign up, be sure to connect your account's authtoken to the ngrok clie
 2. Create a virtualenv and install the webexteamsbot module
 
     ```
-	cd tacapi_bot
+    cd tacapi_bot
     python3.6 -m venv .
     source bin/activate
     pip install webexteamsbot
