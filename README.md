@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/bit-git/tacapi_bot)
 # tacapi_bot
 Simple WebEx Teams chatbot to query Cisco Serial Number to Info Status and Cisco PSRIT openVuln APIs</br>
 Reference: https://pypi.org/project/webexteamsbot/#description
