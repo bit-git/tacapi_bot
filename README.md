@@ -13,7 +13,7 @@ API documention: [https://developer.cisco.com/psirt/](https://developer.cisco.co
 
 1. Ask SmartNet or PSS adminstrator to grant access to Cisco Support APIs. 
 2. Register an app on the Cisco API Console and get client id and client secret.
-3. Populate the creds.py file with the CLIENT_ID and CLIENT_SECRET
+3. Populate the **creds.py** file with the CLIENT_ID and CLIENT_SECRET
 
 Example:
 ```
@@ -48,7 +48,7 @@ Create a free [Webex Teams](https://www.webex.com/products/teams/index.html) bot
 
     ![enter-details](https://github.com/bit-git/tacapi_bot/raw/main/images/botcongrats.png)
 
-7. Populate the creds.py file with TEAMS_BOT_EMAIL and TEAMS_BOT_TOKEN
+7. Populate the **creds.py** file with TEAMS_BOT_EMAIL and TEAMS_BOT_TOKEN
 
 Example:
 ```
